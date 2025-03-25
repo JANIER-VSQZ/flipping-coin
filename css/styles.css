@@ -2,12 +2,13 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    text-align: center;
+    
   }
 
   body {
     height: 100vh;
     background-color: #404A65;
+    text-align: center;
   }
 
   .author-info {
@@ -29,7 +30,7 @@
 
   .container h1{
     color: #fff;
-    font-size: 5rem;
+    font-size: 4rem;
     
     font-weight: bolder;
     -webkit-text-stroke: 3px black;
